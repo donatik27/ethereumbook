@@ -23,7 +23,7 @@ Edit `truffle.js` :
 $ truffle init #initialize truffle project
 $ truffle console
 $ truffle deploy
-$ truffle migrate --reset --compile-all #redeploy the smat contracts
+$ truffle migrate --reset --compile-all #redeploy the smart contracts
 
 ```
 
